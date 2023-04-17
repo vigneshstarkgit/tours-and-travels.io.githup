@@ -1,0 +1,37 @@
+body{
+    color : black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align : center;
+    background: #FCD7AD;
+    box-sizing: border-box;
+}
+.tours{
+    width: 100%;
+    height: 50%;
+    background-image: url("tour.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color :greenyellow;
+    
+}
+.image{
+    background: #DCE2AA;
+    border: 2px solid tomato;
+    
+}
+.proc{
+    display: inline-block;
+}
+.row{
+    background: #C1D1B4;
+}
+.but{
+    background: #C1D1B4;
+}
+.cont{
+    background: #C1D1B4;
+}
+footer{
+    background: #8ED081;
+}
